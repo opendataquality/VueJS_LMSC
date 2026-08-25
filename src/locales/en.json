@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Get started",
+    "editHint": "Edit {file} and save to test {hmr}",
+    "count": "Count is {count}"
+  },
+  "docs": {
+    "title": "Documentation",
+    "subtitle": "Your questions, answered",
+    "vite": "Explore Vite",
+    "vue": "Learn more"
+  },
+  "social": {
+    "title": "Connect with us",
+    "subtitle": "Join the Vite community"
+  },
+  "lang": {
+    "fr": "French",
+    "en": "English"
+  }
+}

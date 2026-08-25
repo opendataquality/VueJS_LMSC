@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "title": "Commencer",
+    "editHint": "Modifiez {file} et enregistrez pour tester {hmr}",
+    "count": "Compteur : {count}"
+  },
+  "docs": {
+    "title": "Documentation",
+    "subtitle": "Vos questions, répondues",
+    "vite": "Découvrir Vite",
+    "vue": "En savoir plus"
+  },
+  "social": {
+    "title": "Rejoignez-nous",
+    "subtitle": "Rejoignez la communauté Vite"
+  },
+  "lang": {
+    "fr": "Français",
+    "en": "Anglais"
+  }
+}
