@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import HelloWorld from './components/HelloWorld.vue'
+import HelloWorld from './components/LMSC.vue'
 import { setLocale } from './i18n'
 
 const { locale, t } = useI18n()
