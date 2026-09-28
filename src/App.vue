@@ -19,6 +19,7 @@ const { locale, t } = useI18n()
     </button>
   </div>
   <HelloWorld />
+  <footer class="py-6 text-sm">© Frédéric Champreux - 2026</footer>
 </template>
 
 <style scoped>

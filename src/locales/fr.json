@@ -17,5 +17,9 @@
   "lang": {
     "fr": "Français",
     "en": "Anglais"
+  },
+  "lmsc": {
+    "manifestoTitle": "Le Manifeste de la Mobilité Partagée du Dernier Kilomètre",
+    "downloadManifesto": "Télécharger le manifeste (PDF)"
   }
 }

@@ -17,5 +17,9 @@
   "lang": {
     "fr": "French",
     "en": "English"
+  },
+  "lmsc": {
+    "manifestoTitle": "The Last Mile Shared Mobility Manifesto",
+    "downloadManifesto": "Download the manifesto (PDF)"
   }
 }
