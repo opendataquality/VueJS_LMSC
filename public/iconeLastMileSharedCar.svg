@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="9.25 24.8 110 110"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="iconeLastMileSharedCar.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.96253025"
+     inkscape:cx="79.997485"
+     inkscape:cy="157.91711"
+     inkscape:window-width="1920"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g45"
+       transform="matrix(0.27564363,0,0,0.27564363,-106.40835,-12.899114)"
+       inkscape:export-filename="iconeLastMileSharedCar.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100">
+      <g
+         id="g44">
+        <ellipse
+           cx="534.27008"
+           cy="287.27826"
+           fill="#55c31a"
+           id="circle13"
+           rx="19.06638"
+           ry="18.654995"
+           style="stroke-width:0.942978" />
+        <ellipse
+           cx="534.27008"
+           cy="335.37793"
+           fill="#55c31a"
+           id="circle13-3"
+           style="stroke-width:1.17872"
+           rx="23.832975"
+           ry="23.318745" />
+        <rect
+           style="fill:#55c31a;fill-opacity:1;stroke-width:1.48993;stroke-linecap:round;stroke-linejoin:round"
+           id="rect22"
+           width="47.665901"
+           height="50"
+           x="510.43701"
+           y="335"
+           ry="1.3073077" />
+      </g>
+      <g
+         id="g43">
+        <ellipse
+           cx="594.32916"
+           cy="287.27826"
+           fill="#18b49b"
+           id="circle14"
+           rx="19.06638"
+           ry="18.654995"
+           style="stroke-width:0.942978" />
+        <ellipse
+           cx="594.32916"
+           cy="335.37793"
+           fill="#18b49b"
+           id="circle14-1"
+           style="stroke-width:1.17872"
+           rx="23.832975"
+           ry="23.318745" />
+        <rect
+           style="fill:#18b49b;fill-opacity:1;stroke-width:1.48993;stroke-linecap:round;stroke-linejoin:round"
+           id="rect22-9"
+           width="47.665901"
+           height="50"
+           x="570.49603"
+           y="335"
+           ry="1.3073077" />
+      </g>
+      <g
+         id="g42">
+        <ellipse
+           cx="654.38824"
+           cy="287.27826"
+           fill="#0fa8b5"
+           id="circle15"
+           rx="19.06638"
+           ry="18.654995"
+           style="stroke-width:0.942978" />
+        <ellipse
+           cx="654.38824"
+           cy="335.37793"
+           fill="#0fa8b5"
+           id="circle15-4"
+           style="stroke-width:1.17872"
+           rx="23.832975"
+           ry="23.318745" />
+        <rect
+           style="fill:#0fa8b5;fill-opacity:1;stroke-width:1.48993;stroke-linecap:round;stroke-linejoin:round"
+           id="rect22-2"
+           width="47.665901"
+           height="50"
+           x="630.55511"
+           y="335"
+           ry="1.3073077" />
+      </g>
+    </g>
+    <path
+       d="m 29.235655,57.639873 c 4.344906,-3.597145 9.77604,-5.215861 15.569245,-5.215861 h 24.802168 c 8.689814,0 15.931322,3.777004 20.81934,10.431724 6.617076,11.729517 5.005462,8.682406 14.120942,12.949722 6.18899,2.2455 9.98525,7.378684 10.31915,12.410154 0.25597,3.857083 0.1086,9.712293 -6.15528,9.712293 H 17.468203 c -11.1578597,0 4.163867,-33.81317 11.767452,-40.288032 z"
+       class="navyStroke"
+       stroke-width="3.24802"
+       id="path13"
+       sodipodi:nodetypes="cssccsssc"
+       style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+    <ellipse
+       cx="30.446938"
+       cy="98.666481"
+       class="navy"
+       id="circle17"
+       style="fill:#000000;stroke-width:0.23743;fill-opacity:1"
+       rx="10.321483"
+       ry="10.098782" />
+    <ellipse
+       cx="94.669495"
+       cy="98.666481"
+       class="navy"
+       id="circle19"
+       style="fill:#000000;stroke-width:0.23743;fill-opacity:1"
+       rx="10.321483"
+       ry="10.098782" />
+  </g>
+</svg>
