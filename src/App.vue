@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
-import Splash from './components/LMSC.vue'
+import Splash from './components/ODQ.vue'
 import { setLocale } from './i18n'
 
 const { locale, t } = useI18n()
@@ -19,7 +19,7 @@ const { locale, t } = useI18n()
     </button>
   </div>
   <Splash />
-  <footer class="py-6 text-sm">Circavia © Frédéric Champreux - 2026</footer>
+  <footer class="py-6 text-sm">Open Data Quality © Frédéric Champreux - 2026</footer>
 </template>
 
 <style scoped>
